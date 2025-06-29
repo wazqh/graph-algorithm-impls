@@ -1,0 +1,4 @@
+D:/codes/project_ex/graph-algorithm-impls/k_core/cmake-build-debug/CMakeFiles/undirected_size_unbounded.dir
+D:/codes/project_ex/graph-algorithm-impls/k_core/cmake-build-debug/CMakeFiles/directed_size_unbounded.dir
+D:/codes/project_ex/graph-algorithm-impls/k_core/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codes/project_ex/graph-algorithm-impls/k_core/cmake-build-debug/CMakeFiles/rebuild_cache.dir

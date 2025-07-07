@@ -1,3 +1,4 @@
-D:/codes/project_ex/graph-algorithm-impls/k_clique/cmake-build-debug/CMakeFiles/k_clique.dir
+D:/codes/project_ex/graph-algorithm-impls/k_clique/cmake-build-debug/CMakeFiles/ocs.dir
+D:/codes/project_ex/graph-algorithm-impls/k_clique/cmake-build-debug/CMakeFiles/dcpc.dir
 D:/codes/project_ex/graph-algorithm-impls/k_clique/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/codes/project_ex/graph-algorithm-impls/k_clique/cmake-build-debug/CMakeFiles/rebuild_cache.dir

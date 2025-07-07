@@ -3,4 +3,5 @@ project(k_clique)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(k_clique main.cpp)
+add_executable(ocs ocs.cpp)
+add_executable(dcpc DCPC.cpp)

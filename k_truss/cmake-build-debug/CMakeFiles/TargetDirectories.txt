@@ -1,3 +1,0 @@
-D:/codes/project_ex/graph-algorithm-impls/k_truss/cmake-build-debug/CMakeFiles/k_truss.dir
-D:/codes/project_ex/graph-algorithm-impls/k_truss/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/codes/project_ex/graph-algorithm-impls/k_truss/cmake-build-debug/CMakeFiles/rebuild_cache.dir

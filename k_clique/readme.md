@@ -8,23 +8,23 @@
 
 2. **k-plex**
 
-  A graph $G(V,E)$ is a k-plex, if for each vertex $v \in V$,  $v$ has at least $\vert V \vert - k$ neighbors in $G$, where $1 \leq k \leq \vert V \vert$When $k=1$ , the k-plex is exactly a k-clique. Clearly, by setting a smaller value of k, we can obtain a more cohesive k-plex. The problem of finding a k-plex from a given graph for an integers $k$ is NP-hard. Another way to relax the constraint of k-clique is to consider the connection of two vertices.
+      A graph $G(V,E)$ is a k-plex, if for each vertex $v \in V$,  $v$ has at least $\vert V \vert - k$ neighbors in $G$, where $1 \leq k \leq \vert V \vert$When $k=1$ , the k-plex is exactly a k-clique. Clearly, by setting a smaller value of k, we can obtain a more cohesive k-plex. The problem of finding a k-plex from a given graph for an integers $k$ is NP-hard. Another way to relax the constraint of k-clique is to consider the connection of two vertices.
 
 3. **$kr$-clique**
 
-  Given a graph $G$ and two integers k and r, a $kr$-clique $S$ is an induced subgraph of $G$ such that:
+	Given a graph $G$ and two integers k and r, a $kr$-clique $S$ is an induced subgraph of $G$ such that:
 
-  (1) the number of vertices in $S$ is at least $k$
+	  (1) the number of vertices in $S$ is at least $k$
 
-  (2) any two vertices in $S$ can reach each other within r hops.
+	  (2) any two vertices in $S$ can reach each other within r hops.
 
 4. **$k$-clique component**
 
-  Let $C$ denote a connected component in the k-clique graph, then a k-clique component is the union of all k-cliques represented by vertices in $C$.
+	  Let $C$ denote a connected component in the k-clique graph, then a k-clique component is the union of all k-cliques represented by vertices in $C$.
 
 5. **k-clique percolation community** (KCPC)
 
-  A set of k-cliques such that each pair is connected via a chain of k-cliques where each consecutive pair shares $k-1$ nodes.
+	  A set of k-cliques such that each pair is connected via a chain of k-cliques where each consecutive pair shares $k-1$ nodes.
 
 ## K-Clique-Based Community Search
 
